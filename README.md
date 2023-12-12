@@ -1,4 +1,4 @@
-# (2차 과제) foodie hotspot recommendation service based geography
+# foodie hotspot recommendation service based geography
 
 ## 목차
 - [개요](#개요)
